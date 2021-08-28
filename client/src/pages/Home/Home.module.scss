@@ -1,0 +1,13 @@
+.wrapper{
+
+}
+
+.cardList{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.cardItem{
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.35%);
+}
